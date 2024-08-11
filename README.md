@@ -1,4 +1,4 @@
-# flutter_application_1
+# flutter_StatelessWidget
 
-A new study Flutter project.
+A First Study Flutter project.
 
